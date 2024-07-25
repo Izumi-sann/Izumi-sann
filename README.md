@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izumi-sann
 - 👀 I’m interested in anime, manga and computer science
-- 🌱 I’m currently learning python, HTML and CSS
+- 🌱 I’m currently learning python and SQL(usin MySQL)
 - 📫 How to reach me (there's no way, really)
 - 😄 Pronouns: just call me wathever you want
 - ⚡ Fun fact: ... ...
