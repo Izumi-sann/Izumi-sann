@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izumi-sann
 - 👀 I’m interested in anime, manga and computer science
-- 🌱 I’m currently learning python and SQL(usin MySQL)
+- 🌱 I’m currently learning c#
 - 📫 How to reach me: using my email (gambalessandro41@gmail.com)
 - 😄 Pronouns: just call me wathever you want
 - ⚡ Fun fact: ... ...
